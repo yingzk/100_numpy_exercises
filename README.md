@@ -3,3 +3,5 @@ Numpy是Python做数据分析必须掌握的基础库之一，非常适合刚学
 Python版本：Python 3.6.2
 
 Numpy版本：Numpy 1.13.1
+
+**如果觉得不错，求个star**
